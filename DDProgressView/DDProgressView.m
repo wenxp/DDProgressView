@@ -8,8 +8,8 @@
 
 #import "DDProgressView.h"
 
-#define kDefaultProgressBarHeight   22.0f
-#define kProgressBarWidth           160.0f
+#define kProgressBarHeight  15.0f
+#define kProgressBarWidth	160.0f
 
 @implementation DDProgressView
 
