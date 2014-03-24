@@ -33,7 +33,7 @@
 		self.innerColor = [UIColor lightGrayColor] ;
 		self.outerColor = [UIColor lightGrayColor] ;
 		self.emptyColor = [UIColor clearColor] ;
-        self.preferredFrameHeight = kDefaultProgressBarHeight;
+        self.preferredFrameHeight = kProgressBarHeight;
 		if (frame.size.width == 0.0f)
 			frame.size.width = kProgressBarWidth ;
 	}
